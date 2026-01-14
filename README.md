@@ -45,16 +45,34 @@ sliding-window-patterns/
 
 ---
 
-## ⚙️ How to Use
-1. Clone the repository  
-git clone https://github.com/anshkunj/sliding-window-patterns.git  
-cd sliding-window-patterns  
+## ⚙️ Installation & Run
 
-2. Open any `.py` file, read problem statement, and understand the sliding window logic  
+1) Clone the repository  
+git clone https://github.com/anshkunj/Subarray-API.git  
+cd Subarray-API  
 
-3. Solve or adapt the code for your own projects  
-   - Add diagrams  
-   - Experiment with different window constraints  
+2) Install dependencies  
+pip install -r requirements.txt  
+
+3) Run the server  
+uvicorn main:app --reload  
+
+---
+
+## 🌐 API Documentation
+
+Swagger UI: http://127.0.0.1:8000/docs  
+
+ReDoc: http://127.0.0.1:8000/redoc  
+
+---
+
+## 🌐 Live API
+
+Base URL:  
+https://subarray-api.onrender.com  
+Docs:  
+https://subarray-api.onrender.com/docs
 
 ---
 
