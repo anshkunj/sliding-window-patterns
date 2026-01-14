@@ -1,4 +1,4 @@
-# 🚀 Sliding Window Patterns
+# 🚀 Sliding Window mastery
 
 A curated collection of **sliding window algorithm problems** covering fixed, variable, and conditional windows. Each solution is optimized, explained with diagrams, and mapped to real-world scenarios like substring processing, analytics, and streaming data.
 
@@ -48,7 +48,7 @@ sliding-window-patterns/
 ## ⚙️ Installation & Run
 
 1) Clone the repository  
-git clone https://github.com/anshkunj/Subarray-API.git  
+git clone https://github.com/anshkunj/sliding-window-mastery.git  
 cd Subarray-API  
 
 2) Install dependencies  
@@ -70,9 +70,9 @@ ReDoc: http://127.0.0.1:8000/redoc
 ## 🌐 Live API
 
 Base URL:  
-https://subarray-api.onrender.com  
+https://sliding-window-mastery.onrender.com  
 Docs:  
-https://subarray-api.onrender.com/docs
+https://sliding-window-mastery.onrender.com/docs
 
 ---
 
