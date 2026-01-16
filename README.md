@@ -73,10 +73,8 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 ## 🌐 Live API
 
-Base URL:  
-https://sliding-window-mastery.onrender.com  
-Docs:  
-https://sliding-window-mastery.onrender.com/docs
+Base URL: https://sliding-window-mastery.onrender.com  
+Docs: https://sliding-window-mastery.onrender.com/docs
 
 ---
 
