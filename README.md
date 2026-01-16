@@ -23,7 +23,7 @@ A curated collection of **sliding window algorithm problems** covering fixed, va
 ## 📂 Repo Structure
 
 sliding-window-mastery/  
-├── main.py          # FastAPI app & routes
+├── main.py          # FastAPI app & routes  
 ├── logic.py         # Core algorithm implementations  
 ├── models.py        # Pydantic request models  
 ├── requirements.txt  
