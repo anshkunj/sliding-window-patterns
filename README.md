@@ -99,6 +99,14 @@ MIT Licence
 
 ---
 
+## 🤝 Contributing
+contributors are welcome! 
+• Add new sliding window problems 
+• Improve explanations  
+• Optimise exists code  
+
+---
+
 ## 👤 Author
 **anshkunj**  
 GitHub: https://github.com/anshkunj  
