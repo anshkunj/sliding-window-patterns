@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/anshkunj/sliding-window-mastery/blob/bc13502c4738eb1dba6e949ba6ec557502d39309/IMG_20260116_093935.jpg" alt="Sliding Window Mastery" width="1200">
+</p>
+
+<h1 align="center">Sliding Window Mastery</h1>
+<p align="center">Curated sliding window algorithm problems with optimized Python solutions and pattern insights 🌊🐍</p>
+
 # 🚀 Sliding Window mastery
 
 A curated collection of **sliding window algorithm problems** covering fixed, variable, and conditional windows. Each solution is optimized, explained with diagrams, and mapped to real-world scenarios like substring processing, analytics, and streaming data.
